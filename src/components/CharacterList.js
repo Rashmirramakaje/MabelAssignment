@@ -17,7 +17,6 @@ const CharacterList = () => {
         const movieData = await movieResponse.json();
         setMovie(movieData);
 
-        // Fetch detailed character information
         const characterRequests = movieData.characters.map(async (characterURL) => {
           const characterResponse = await fetch(characterURL);
           if (!characterResponse.ok) {
