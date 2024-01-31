@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MabelAssignment/static/css/main.89b3636e.css",
+    "main.js": "/MabelAssignment/static/js/main.1b82be68.js",
+    "static/js/787.f24f90ca.chunk.js": "/MabelAssignment/static/js/787.f24f90ca.chunk.js",
+    "index.html": "/MabelAssignment/index.html",
+    "main.89b3636e.css.map": "/MabelAssignment/static/css/main.89b3636e.css.map",
+    "main.1b82be68.js.map": "/MabelAssignment/static/js/main.1b82be68.js.map",
+    "787.f24f90ca.chunk.js.map": "/MabelAssignment/static/js/787.f24f90ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89b3636e.css",
+    "static/js/main.1b82be68.js"
+  ]
+}
